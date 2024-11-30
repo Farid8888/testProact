@@ -1,0 +1,7 @@
+.test{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    max-width: 95%;
+    margin: 5rem auto;
+}
